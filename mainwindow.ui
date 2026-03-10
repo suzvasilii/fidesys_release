@@ -279,7 +279,7 @@ color: #1A162A;
       <rect>
        <x>180</x>
        <y>310</y>
-       <width>121</width>
+       <width>111</width>
        <height>41</height>
       </rect>
      </property>
@@ -293,7 +293,7 @@ backgoround:#fff;
 }</string>
      </property>
      <property name="text">
-      <string>Расчет</string>
+      <string>Рассчет</string>
      </property>
     </widget>
     <widget class="QStackedWidget" name="stackedWidget">
